@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpita Panda</h1>
 <h3 align="center">Full Stack Engineer | React.js Developer | DSA Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arpita-023p&label=Profile%20Views&color=0d1117&style=flat" />
-</p>
+
 
 ---
 
